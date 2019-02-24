@@ -11,7 +11,6 @@ Used Anaconda IDE
 6. Changeing Columns Cast
 7. Rename Columns
 
-
 Indexing and  Filtering Data Sets
 1. Access Data with Square Brackets
 2. Difference in loc and iloc
