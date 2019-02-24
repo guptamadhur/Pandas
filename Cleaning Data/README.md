@@ -18,3 +18,8 @@ Indexing and  Filtering Data Sets
 3. Str.contains
 
 Handling Bad,Missing and Duplicate Data
+1. Stripping White Spaces
+2. Replacing Bad data with NaN
+3. Missing Data Fillna
+4. Dropna Function
+5. Dropping Duplicate Data
